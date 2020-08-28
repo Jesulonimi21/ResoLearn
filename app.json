@@ -1,0 +1,15 @@
+{
+  "name": "resolearn",
+  "displayName": "resolearn",
+  "expo": {
+    "name": "resolearn",
+    "slug": "resolearn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash":{
+      "image":"./assets/images/reso_learn_logo.png"
+    }
+  }
+}
